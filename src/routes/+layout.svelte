@@ -41,8 +41,7 @@
             { "@type": "City", "name": "Lunel" },
             { "@type": "City", "name": "Béziers" },
             { "@type": "City", "name": "Nîmes" },
-            { "@type": "AdministrativeArea", "name": "Hérault" },
-            { "@type": "Country", "name": "France" }
+            { "@type": "AdministrativeArea", "name": "Hérault" }
         ],
         "serviceType": ["Branding", "Identité visuelle", "Webdesign", "Stratégie de marque"]
     };
