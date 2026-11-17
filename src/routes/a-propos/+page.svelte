@@ -3,15 +3,15 @@
     import portrait from "$lib/assets/profil.png";
 </script>
 
-<SEO title="À propos - Arsaam Studio" description="Découvrez Arsaam Studio, l'agence créative fondée par Anwar Benkerta. Branding, identité visuelle et stratégie de marque au service des entreprises ambitieuses." />
+<SEO title="À propos : Anwar Benkerta, graphiste à Montpellier" description="Découvrez Arsaam Studio, l'agence créative fondée par Anwar Benkerta. Branding, identité visuelle et stratégie de marque au service des entreprises ambitieuses." />
 
 <section class="about">
     <div class="container">
         <div class="top-section">
             <div class="studio-info">
-                <h2>Arsaam Studio</h2>
+                <h1>Arsaam Studio</h1>
                 <p>Crée en 2025.</p>
-                <p>Anwar BENKERTA</p>
+                <p>Anwar BENKERTA, graphiste à Montpellier</p>
             </div>
             
             <div class="vision-info">
@@ -61,7 +61,7 @@
         margin-bottom: 6rem;
     }
 
-    .studio-info h2 {
+    .studio-info h1 {
         font-size: 1.2rem;
         font-weight: 700;
         margin-bottom: 0.5rem;

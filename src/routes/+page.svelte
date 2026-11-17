@@ -129,7 +129,7 @@
     };
 </script>
 
-<SEO title="Arsaam Studio" description="Arsaam Studio, agence créative spécialisée en branding, identité visuelle et webdesign. Design d'exception et stratégie de marque pour les entreprises ambitieuses." />
+<SEO title="Graphiste à Montpellier : identité visuelle et webdesign" description="Arsaam Studio, studio de design graphique d'Anwar Benkerta à Montpellier. Identité visuelle, logo, charte graphique et webdesign pour les marques qui ont une histoire à raconter." />
 
 <svelte:head>
     {@html `<script type="application/ld+json">${JSON.stringify(faqSchema)}</script>`}
@@ -152,7 +152,8 @@
             <div class="hero-main">
                 <div class="hero-title-area">
                     <h1 class="hero-title">
-                        Pour les marques qui<br>
+                        Graphiste à Montpellier,<br>
+                        pour les marques qui<br>
                         bâtissent 
                         <span class="message-wrapper">
                             {#each messages as msg, i}
@@ -173,7 +174,7 @@
             
             <div class="hero-info-area">
                 <p class="hero-desc">
-                    De la stratégie à la maquette de votre site web, je transforme votre marque en une identité visuelle authentique et mémorable.
+                    Je suis Anwar Benkerta, graphiste à Montpellier. De la stratégie à la maquette de votre site web, je crée votre identité visuelle et votre webdesign, authentiques et mémorables.
                 </p>
                 <div class="hero-cta">
                     <a href="#projets" class="btn-premium light-btn">

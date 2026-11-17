@@ -21,11 +21,14 @@
         <div class="legal-content">
             <div class="legal-block">
                 <h3>Éditeur du site</h3>
-                <p><strong>Arsaam Studio</strong><br>
-                Lot almajd 2, Tinghir 45800, Maroc<br>
+                <!-- À CONFIRMER avec Anwar avant toute mise en ligne : statut juridique et numéro
+                     d'immatriculation (SIRET si entreprise française). L'ancien statut « Auto-entrepreneur
+                     au Maroc » et l'ancien numéro (003693179000070) ont été retirés. -->
+                <p><strong>Arsaam Studio</strong>, Anwar Benkerta<br>
+                Montpellier (34080), France<br>
                 Email : <a href="mailto:arsaam.studio@gmail.com">arsaam.studio@gmail.com</a><br>
-                Statut juridique : Auto-entrepreneur au Maroc<br>
-                Numéro d’Identification : 003693179000070</p>
+                Statut juridique : à confirmer<br>
+                Numéro d’immatriculation : à confirmer</p>
             </div>
 
             <div class="legal-block">
@@ -37,12 +40,12 @@
 
             <div class="legal-block">
                 <h3>Propriété intellectuelle</h3>
-                <p>Tous les éléments présents sur ce site (textes, images, graphismes, logos, vidéos, etc.) sont la propriété exclusive de Arsaam Studio, sauf mention contraire. Toute reproduction, modification ou diffusion, même partielle, est interdite sans autorisation écrite préalable, conformément aux lois en vigueur sur la propriété intellectuelle au Maroc.</p>
+                <p>Tous les éléments présents sur ce site (textes, images, graphismes, logos, vidéos, etc.) sont la propriété exclusive de Arsaam Studio, sauf mention contraire. Toute reproduction, modification ou diffusion, même partielle, est interdite sans autorisation écrite préalable, conformément au Code de la propriété intellectuelle.</p>
             </div>
 
             <div class="legal-block">
                 <h3>Protection des données personnelles</h3>
-                <p>Les informations recueillies via le formulaire de contact ou toute autre interaction sur ce site sont uniquement utilisées dans le cadre de la relation professionnelle entre l’utilisateur et Arsaam Studio. Conformément à la Loi 09-08 relative à la protection des données personnelles au Maroc, vous disposez d’un droit d’accès, de rectification et de suppression de vos données. Pour exercer ce droit, envoyez votre demande à <a href="mailto:arsaam.studio@gmail.com">arsaam.studio@gmail.com</a>.</p>
+                <p>Les informations recueillies via le formulaire de contact ou toute autre interaction sur ce site sont uniquement utilisées dans le cadre de la relation professionnelle entre l’utilisateur et Arsaam Studio. Conformément au Règlement général sur la protection des données (RGPD) et à la loi Informatique et Libertés, vous disposez d’un droit d’accès, de rectification et de suppression de vos données. Pour exercer ce droit, envoyez votre demande à <a href="mailto:arsaam.studio@gmail.com">arsaam.studio@gmail.com</a>.</p>
             </div>
 
             <div class="legal-block">
@@ -57,7 +60,7 @@
 
             <div class="legal-block">
                 <h3>Droit applicable et juridiction</h3>
-                <p>Les présentes mentions légales sont soumises au droit marocain. En cas de litige, les tribunaux compétents seront ceux du ressort des autorités marocaines.</p>
+                <p>Les présentes mentions légales sont soumises au droit français. En cas de litige, les tribunaux français sont seuls compétents.</p>
             </div>
         </div>
     </div>

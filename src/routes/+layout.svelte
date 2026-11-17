@@ -13,29 +13,37 @@
         "url": "https://arsaam-studio.com",
         "logo": "https://arsaam-studio.com/og-image.png",
         "image": "https://arsaam-studio.com/og-image.png",
-        "description": "De la stratégie à la maquette de votre site web, je transforme votre marque en une identité visuelle authentique et mémorable.",
+        "description": "Arsaam Studio, studio de design graphique d'Anwar Benkerta, graphiste à Montpellier : identité visuelle, logo, charte graphique et webdesign.",
         "email": "arsaam.studio@gmail.com",
         "founder": {
             "@type": "Person",
-            "name": "Anwar BENKERTA"
+            "name": "Anwar BENKERTA",
+            "jobTitle": "Graphiste"
         },
         "address": {
             "@type": "PostalAddress",
-            "streetAddress": "Lot almajd 2",
-            "addressLocality": "Tinghir",
-            "postalCode": "45800",
-            "addressCountry": "MA"
+            "addressLocality": "Montpellier",
+            "postalCode": "34080",
+            "addressRegion": "Occitanie",
+            "addressCountry": "FR"
         },
-        "sameAs": [],
+        "sameAs": [
+            "https://www.instagram.com/arsaamstudio/",
+            "https://www.linkedin.com/in/anwar-benkerta",
+            "https://www.malt.fr/profile/anwarbenkerta",
+            "https://graphiste.com/Arsaam"
+        ],
         "priceRange": "€€",
-        "areaServed": {
-            "@type": "GeoCircle",
-            "geoMidpoint": {
-                "@type": "GeoCoordinates",
-                "latitude": 31.5,
-                "longitude": -5.5
-            }
-        },
+        "areaServed": [
+            { "@type": "City", "name": "Montpellier" },
+            { "@type": "AdministrativeArea", "name": "Montpellier Méditerranée Métropole" },
+            { "@type": "City", "name": "Sète" },
+            { "@type": "City", "name": "Lunel" },
+            { "@type": "City", "name": "Béziers" },
+            { "@type": "City", "name": "Nîmes" },
+            { "@type": "AdministrativeArea", "name": "Hérault" },
+            { "@type": "Country", "name": "France" }
+        ],
         "serviceType": ["Branding", "Identité visuelle", "Webdesign", "Stratégie de marque"]
     };
 </script>
